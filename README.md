@@ -71,7 +71,4 @@ Welcome to **ShopSphere**, an all-encompassing e-commerce web application built 
 ## Live Demo
 You can check out the live version of the site at [ShopSphere](https://shopsphere-ovrw.onrender.com/).
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
